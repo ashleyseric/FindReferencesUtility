@@ -1,2 +1,2 @@
 # FindReferencesUtility
-Check for asset references in the currently open scene.
+Unity tool to find all references to the selected assets in the currently open scene.
